@@ -18,7 +18,7 @@ UNet is a convolutional network architecture for fast and precise segmentation o
 To get started, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/unet-brat2020.git
+git clone https://github.com/jessakhi/unet-brat2020.git
 cd unet-brat2020
 pip install -r requirements.txt
 ```
